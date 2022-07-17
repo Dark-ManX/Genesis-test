@@ -59,3 +59,6 @@ export const Button = styled.button`
     margin-right: 20px;
 }
 `
+export const inDress = styled.div`
+background-image: url(${chooseCloth});
+`
